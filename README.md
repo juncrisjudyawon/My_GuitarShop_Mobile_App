@@ -14,5 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 ## Note:
 i build this project using the Flutlab.io, so if there's any problem by accessing my Mobile App project just contact me.
 ### Contact:
-juncris.judyawon@normi.edu.ph
-judyawonjuncris@gmail.com
+juncris.judyawon@normi.edu.ph or judyawonjuncris@gmail.com
